@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**Abdul734734/Abdul734734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to My GitHub 👋
+ 
+Hi! I'm a Full Stack Web Developer student at Business College Helsinki. 🚀
+ 
+## 🔥 What I’m Learning
+- HTML, CSS, JavaScript
+- UI Design & Prototyping
+- PHP & Laravel
+- React & Databases
+ 
+## 📌 Projects
+Check out my repos to see my latest work! 💻
+ 
+## 📫 Contact Me
+- LinkedIn: [https://www.linkedin.com/in/abdul-majid-20a477230/]
+ 
+Happy coding! 😃
